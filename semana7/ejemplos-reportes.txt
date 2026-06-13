@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Los vecinos reportan falta de iluminación en una calle del barrio."
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Existe un hueco grande en la vía principal que dificulta el tránsito."
+}

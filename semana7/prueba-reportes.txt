@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes, el servidor muestra todos los reportes que se han registrado mediante la ruta POST. También, 
+cada reporte contiene un identificador, el tipo y una descripción de la incidencia registrada.
+
+Cuando se agregan nuevos reportes, estos aparecerán en la consulta, permitiendo visualizar la información almacenada en memoria.
