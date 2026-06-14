@@ -1,7 +1,6 @@
-Al consultar la ruta GET /reportes, el servidor muestra todos los reportes que se han registrado mediante la ruta POST. También, 
-cada reporte contiene un identificador, el tipo y una descripción de la incidencia registrada.
-
-Cuando se agregan nuevos reportes, estos aparecerán en la consulta, permitiendo visualizar la información almacenada en memoria.
+Al consultar la ruta GET /reportes, el servidor muestra todos los reportes que se han registrado mediante la ruta POST. También, cada reporte 
+contiene un identificador, el tipo y una descripción de la incidencia registrada.
+Por tanto, cuando se agregan nuevos reportes, estos aparecerán en la consulta, permitiendo visualizar la información almacenada en memoria.
 
 1. Ejemplo de respuesta al consultar la ruta POST usando Thunder Client:
 
