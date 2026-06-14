@@ -1,5 +1,0 @@
-{
-  "tipo": "Hueco en la vía",
-  "descripcion": "Los habitantes reportan un hueco de gran tamaño que dificulta el tránsito de vehículos y motocicletas."
-}
-
