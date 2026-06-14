@@ -2,3 +2,24 @@ Al consultar la ruta GET /reportes, el servidor muestra todos los reportes que s
 cada reporte contiene un identificador, el tipo y una descripción de la incidencia registrada.
 
 Cuando se agregan nuevos reportes, estos aparecerán en la consulta, permitiendo visualizar la información almacenada en memoria.
+
+1. Ejemplo de respuesta al consultar la ruta POST usando Thunder Client:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+2. Ejemplo de respuesta al consultar GET /reportes:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
